@@ -1,0 +1,10 @@
+.env
+package?
+**/logs
+debug[0-9].log
+build/
+images[!012]
+etc/pass*
+!package-lock.*
+client/publi[a-z]
+modules
